@@ -34,7 +34,7 @@ Installation
 
     sh
 
-git clone https://github.com/manasamanu11/to-do-list.git
+git clone https://github.com/velpula-manasa/to-do-list.git
 
 Navigate to the project directory:
 
